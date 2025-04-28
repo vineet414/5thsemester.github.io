@@ -1,0 +1,22 @@
+h1{
+    color: rgb(10, 88, 233);
+}
+h2{color: #f11919;}
+header{text-align: center;}
+a:hover{color: #3ae015;}
+
+
+
+
+
+
+h2,h3{text-align: center;}
+nav{text-align: right;}
+nav{text-decoration: solid;}
+.main menu{ font-weight: bold;}
+header{background-color: #ac0303;
+padding: 50px;}
+nav{padding: 4%;}
+H2{background-color: aqua;}
+NAV{font-size: large;
+font-weight: bold;}
